@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twój koszyk</string>
+    <string name="del">usuń</string>
+    <string name="add">dodaj</string>
+</resources>
